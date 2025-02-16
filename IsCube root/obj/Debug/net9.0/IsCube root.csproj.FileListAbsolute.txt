@@ -1,0 +1,14 @@
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\bin\Debug\net9.0\IsCube root.exe
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\bin\Debug\net9.0\IsCube root.deps.json
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\bin\Debug\net9.0\IsCube root.runtimeconfig.json
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\bin\Debug\net9.0\IsCube root.dll
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\bin\Debug\net9.0\IsCube root.pdb
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\obj\Debug\net9.0\IsCube root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\obj\Debug\net9.0\IsCube root.AssemblyInfoInputs.cache
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\obj\Debug\net9.0\IsCube root.AssemblyInfo.cs
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\obj\Debug\net9.0\IsCube root.csproj.CoreCompileInputs.cache
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\obj\Debug\net9.0\IsCube root.dll
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\obj\Debug\net9.0\refint\IsCube root.dll
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\obj\Debug\net9.0\IsCube root.pdb
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\obj\Debug\net9.0\IsCube root.genruntimeconfig.cache
+C:\Users\DR NET SOH\Desktop\betway cube root\IsCube root\obj\Debug\net9.0\ref\IsCube root.dll
